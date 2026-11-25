@@ -1,0 +1,6 @@
+{
+  "name": "Find My Heart",
+  "description": "A cozy 3D two-player mansion exploration game built for two.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
